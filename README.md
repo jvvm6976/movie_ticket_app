@@ -40,9 +40,9 @@ Dự án này phù hợp cho:
 
 ## 📸 Demo Ứng Dụng
 
-**Xem ảnh chạy thử ứng dụng tại:** [`Demo/`](./Demo)
+**📱 Xem đầy đủ ảnh chụp màn hình tại:** [`Demo/demo.md`](./Demo/demo.md)
 
-Thư mục Demo chứa các ảnh chụp màn hình minh họa đầy đủ các chức năng của ứng dụng đang hoạt động, bao gồm:
+File demo.md chứa tất cả các ảnh chụp màn hình được sắp xếp theo thứ tự với mô tả chi tiết, bao gồm:
 - Màn hình đăng nhập/đăng ký
 - Danh sách phim đang chiếu
 - Chi tiết phim và thông tin suất chiếu
